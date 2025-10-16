@@ -1,0 +1,25 @@
+{
+    "name": "Monica Chapman",
+    "age": 78,
+    "address": {
+        "street": "Matthew Well",
+        "city": "Mccallmouth",
+        "state": "Idaho",
+        "zip": "11528"
+    },
+    "contact": {
+        "phone": "+1-931-761-9115x85651",
+        "servicePhone": "800600663"
+    },
+    "birthday": "1947-30-09",
+    "ip": "33.121.63.237",
+    "foo": "bar",
+    "profile": {
+        "about": "Although understand ahead. Agent lead dream couple lose.\nMove tree than president eye however. Build daughter author.\nLeft like we red without rate through I.",
+        "bio": "War talk knowledge court. Attention attention character buy church seem. Significant station Congress end.\nFour marriage different industry imagine manage tree. Choose us us gun region need past."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
