@@ -1,0 +1,25 @@
+{
+    "name": "Leslie Powell",
+    "age": 34,
+    "address": {
+        "street": "Ramirez Locks",
+        "city": "West Robertview",
+        "state": "Ohio",
+        "zip": "80249"
+    },
+    "contact": {
+        "phone": "(650)267-3648",
+        "servicePhone": "800169817"
+    },
+    "birthday": "1991-16-04",
+    "ip": "3.86.35.193",
+    "foo": "bar",
+    "profile": {
+        "about": "Remain good while difference gas light. Compare since talk box.\nBaby form your purpose. Speak health treatment capital education sea.",
+        "bio": "Little college give approach him clear. Foreign show should left source cause though.\nPattern happen citizen garden hundred fast medical. Explain benefit inside information college."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
