@@ -1,0 +1,25 @@
+{
+    "name": "James Garcia",
+    "age": 67,
+    "address": {
+        "street": "Heather Course",
+        "city": "Michellemouth",
+        "state": "Utah",
+        "zip": "42478"
+    },
+    "contact": {
+        "phone": "522.791.6742",
+        "servicePhone": "800668449"
+    },
+    "birthday": "1958-27-12",
+    "ip": "88.55.27.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Often across strategy hit hear recent four. Amount age player.",
+        "bio": "Represent radio young summer large worry information. Pull perform magazine together.\nShow west fast capital parent however. Any detail ground drop ten stage same. Exactly impact pretty reason foot."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
