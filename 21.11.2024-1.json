@@ -1,0 +1,25 @@
+{
+    "name": "Jean Miller",
+    "age": 76,
+    "address": {
+        "street": "Christopher Heights",
+        "city": "East Michaelport",
+        "state": "Louisiana",
+        "zip": "02663"
+    },
+    "contact": {
+        "phone": "001-757-233-3705x806",
+        "servicePhone": "800566882"
+    },
+    "birthday": "1949-03-11",
+    "ip": "99.188.99.122",
+    "foo": "bar",
+    "profile": {
+        "about": "Everyone show one service fly meeting institution during. Garden ago consumer left organization president. Feeling stay hand wear.",
+        "bio": "Pull wall include black. Economy anyone herself market early forget book like."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
