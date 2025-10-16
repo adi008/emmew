@@ -1,0 +1,25 @@
+{
+    "name": "Kristin Brown",
+    "age": 27,
+    "address": {
+        "street": "Daniel Corners",
+        "city": "Brianmouth",
+        "state": "Utah",
+        "zip": "81365"
+    },
+    "contact": {
+        "phone": "+1-205-254-4611x83742",
+        "servicePhone": "800689829"
+    },
+    "birthday": "1998-17-01",
+    "ip": "28.215.203.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Believe authority wall scene. Drive response degree necessary sound. Still draw politics many.\nMaterial positive yet network kid. Field cause lot as. System act he pretty.",
+        "bio": "Already rock dark run best reveal. Cup your small might newspaper. Usually total example industry each worry also."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}

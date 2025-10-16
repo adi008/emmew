@@ -1,0 +1,25 @@
+{
+    "name": "Michael Evans",
+    "age": 88,
+    "address": {
+        "street": "Stephen Spring",
+        "city": "New Shellyland",
+        "state": "Kentucky",
+        "zip": "08815"
+    },
+    "contact": {
+        "phone": "001-383-280-5752",
+        "servicePhone": "800205386"
+    },
+    "birthday": "1937-29-10",
+    "ip": "19.123.236.122",
+    "foo": "bar",
+    "profile": {
+        "about": "Seem serious money truth detail organization attention. Real worker act animal. Book team guy support anything.\nPolitical those together. Natural finish career visit food.",
+        "bio": "Bag effort crime everything. Hot tend mind write short. Some necessary great billion business respond. Learn let second drug media relate.\nYet conference to marriage. Not production hour while hour."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
