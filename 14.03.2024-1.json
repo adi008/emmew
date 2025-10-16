@@ -1,0 +1,25 @@
+{
+    "name": "Sharon Bishop",
+    "age": 2,
+    "address": {
+        "street": "Elizabeth Run",
+        "city": "Jamesbury",
+        "state": "Georgia",
+        "zip": "67274"
+    },
+    "contact": {
+        "phone": "544.501.5256",
+        "servicePhone": "800170356"
+    },
+    "birthday": "2023-13-07",
+    "ip": "162.181.175.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Study sure organization pretty size capital. Country hospital activity. Weight former life focus.",
+        "bio": "Commercial quality big happen. Ask record ready four suffer. Will culture ground international."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
